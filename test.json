@@ -1,0 +1,42 @@
+{
+  "data": {
+    "items": [
+      {
+        "id_course": 123,
+        "name": "Introduction to Python",
+        "price": "$49.99",
+        "start_date": "2024-05-01",
+        "end_date": "2024-05-31"
+      },
+      {
+        "id_course": 124,
+        "name": "Web Development Basics",
+        "price": "$29.99",
+        "start_date": "2024-06-01",
+        "end_date": "2024-06-30"
+      },
+      {
+        "id_course": 125,
+        "name": "Data Science Fundamentals",
+        "price": "$59.99",
+        "start_date": "2024-07-01",
+        "end_date": "2024-07-31"
+      },
+      {
+        "id_course": 126,
+        "name": "Machine Learning Essentials",
+        "price": "$79.99",
+        "start_date": "2024-08-01",
+        "end_date": "2024-08-31"
+      },
+      {
+        "id_course": 127,
+        "name": "Cybersecurity Basics",
+        "price": "$39.99",
+        "start_date": "2024-09-01",
+        "end_date": "2024-09-30"
+      }
+    ],
+    "count": 5
+  }
+}
